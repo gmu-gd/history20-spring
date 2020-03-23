@@ -323,6 +323,18 @@ li.heading {
 li.date {
   margin-top: 15px;
 }
+.li-bottompadding li.date strong {
+  font-size: 1rem;
+  color: black;
+  border-bottom: 2px solid blue;
+}
+.li-bottompadding li {
+  padding-bottom: 5px;
+}
+.li-bottompadding .cat {
+  font-weight: bold;
+  letter-spacing: .02rem;
+}
 .menu-list ul li {
     padding: 10px 5px;
     text-align: right;
